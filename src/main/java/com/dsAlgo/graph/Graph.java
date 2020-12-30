@@ -55,7 +55,7 @@ public class Graph {
 
 		boolean[] visited = new boolean[V];
 
-		for (int i = 0; i < 6; i++)
+		for (int i = 0; i < V; i++)
 			if (!visited[i])
 				topologicalSortUtil(i, visited, stack);
 
