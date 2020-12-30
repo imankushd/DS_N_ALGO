@@ -1,4 +1,4 @@
-package com.dsAlgo;
+package com.dsAlgo.graph;
 
 import java.util.*;
 

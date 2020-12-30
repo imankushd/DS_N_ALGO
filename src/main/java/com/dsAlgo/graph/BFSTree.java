@@ -1,4 +1,4 @@
-package com.dsAlgo.tree;
+package com.dsAlgo.graph;
 
 import java.util.LinkedList;
 import java.util.Queue;
